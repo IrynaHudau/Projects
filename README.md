@@ -22,7 +22,7 @@ I used React, Material UI and D3 JavaScript chart library to build the applicati
 <img src="./assets/calc-u-rator.png" width="300" alt="Calc U Rator"/>
 
 # Sudoku - GAME
-- [Play](https://irynahudava.github.io/Projects/docs/sudoku.html) on Heroku. _Please, give app's dyno a minute to wake up._
+- [Play](https://sudoku-for-fun.herokuapp.com) on Heroku. _Please, give app's dyno a minute to wake up._
 - [View Code](https://github.com/IrynaHudava/Sudoku) on GitHub.
 
 A web game where I used just React without any component library.
