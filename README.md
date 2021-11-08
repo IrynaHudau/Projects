@@ -9,7 +9,7 @@ I wanted to challenge myself and build a WEB game with just HTML, CSS and JavaSc
 <img src="./assets/tic-tac-toe.png" width="300" alt="Tic Tac Toe - GAME"/>
 
 # Calc U Rator
-- [Run](https://irynahudava.github.io/Projects/docs/calculator.html) code on Heroku. _Please, give app's dyno a minute to wake up._
+- [Run](https://calcuraptor.herokuapp.com/calculators) code on Heroku. _Please, give app's dyno a minute to wake up._
 - [View Code](https://github.com/IrynaHudava/CalcuRator) on GitHub.
 
 WEB application that implements three calculators: 
