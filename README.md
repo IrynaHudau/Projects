@@ -12,6 +12,17 @@ I wanted to challenge myself and build a WEB game with just HTML, CSS, and JavaS
 
 <img width="1437" alt="Luxury Jewelry Store - Mangata And Gallo" src="https://user-images.githubusercontent.com/8109705/192356098-ab487d0f-dd90-4493-a1a2-e9d89de0d61e.png">
 
+
+# Mediterranean Restaurant - Little Lemon
+
+<img width="1264" height="791" alt="Little Lemon Restaurant" src="https://github.com/user-attachments/assets/6c63d612-fc79-4026-9c5d-ebf5096f0a86" />
+
+
+# Flower and Plant Shop - Lucky Shrub
+
+<img width="1075" height="976" alt="Lucky Shrub" src="https://github.com/user-attachments/assets/67fea757-df50-49f7-83c7-cf66de1b16f6" />
+
+
 # Calc U Rator
 - [View Code](https://github.com/IrynaHudava/CalcuRator) on GitHub.
 
@@ -35,10 +46,3 @@ A web game where I used just React without any component library.
 [View Code](https://github.com/IrynaHudava/PokemonFinderApp) on GitHub.
 
 Web UI application and Node.js REST service. The application helps find Pokémon by multiple parameters. Fun project where I wanted to show my skills in building REST services.
-
-# Mediterranean Restaurant - Little Lemon
-<img width="1264" height="791" alt="Little Lemon Restaurant" src="https://github.com/user-attachments/assets/6c63d612-fc79-4026-9c5d-ebf5096f0a86" />
-
-
-# Flower and Plant Shop - Lucky Shrub
-<img width="1075" height="976" alt="Lucky Shrub" src="https://github.com/user-attachments/assets/67fea757-df50-49f7-83c7-cf66de1b16f6" />
