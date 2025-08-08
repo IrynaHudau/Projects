@@ -1,7 +1,7 @@
 Projects created by Iryna Hudau
 
 # Tic Tac Toe - GAME
-- [Play](https://irynahudava.github.io/TicTacToeGame) Tic Tac Toe.
+- [Play](https://irynahudau.github.io/TicTacToeGame/) Tic Tac Toe.
 - [View Code](https://github.com/IrynaHudava/TicTacToeGame) on GitHub.
 
 I wanted to challenge myself and build a WEB game with just HTML, CSS, and JavaScript.
